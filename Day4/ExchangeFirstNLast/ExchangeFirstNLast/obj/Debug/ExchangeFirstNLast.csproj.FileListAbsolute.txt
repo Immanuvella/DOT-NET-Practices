@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\bin\Debug\ExchangeFirstNLast.exe.config
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\bin\Debug\ExchangeFirstNLast.exe
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\bin\Debug\ExchangeFirstNLast.pdb
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\obj\Debug\ExchangeFirstNLast.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\obj\Debug\ExchangeFirstNLast.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\obj\Debug\ExchangeFirstNLast.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\obj\Debug\ExchangeFirstNLast.exe
+D:\UST_PRACTICALS\Day4\ExchangeFirstNLast\ExchangeFirstNLast\obj\Debug\ExchangeFirstNLast.pdb

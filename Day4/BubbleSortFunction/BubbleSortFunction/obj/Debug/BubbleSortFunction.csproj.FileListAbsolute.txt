@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\bin\Debug\BubbleSortFunction.exe.config
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\bin\Debug\BubbleSortFunction.exe
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\bin\Debug\BubbleSortFunction.pdb
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\obj\Debug\BubbleSortFunction.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\obj\Debug\BubbleSortFunction.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\obj\Debug\BubbleSortFunction.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\obj\Debug\BubbleSortFunction.exe
+D:\UST_PRACTICALS\Day4\BubbleSortFunction\BubbleSortFunction\obj\Debug\BubbleSortFunction.pdb
