@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\bin\Debug\MoneyNotesCount_Program.exe.config
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\bin\Debug\MoneyNotesCount_Program.exe
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\bin\Debug\MoneyNotesCount_Program.pdb
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\obj\Debug\MoneyNotesCount_Program.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\obj\Debug\MoneyNotesCount_Program.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\obj\Debug\MoneyNotesCount_Program.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\obj\Debug\MoneyNotesCount_Program.exe
+D:\UST_PRACTICALS\Day7\MoneyNotesCount_Program\MoneyNotesCount_Program\obj\Debug\MoneyNotesCount_Program.pdb

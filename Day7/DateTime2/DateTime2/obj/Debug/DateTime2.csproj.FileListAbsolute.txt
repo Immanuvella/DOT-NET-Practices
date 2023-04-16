@@ -1,0 +1,6 @@
+D:\UST_PRACTICALS\Day7\DateTime2\DateTime2\bin\Debug\DateTime2.dll
+D:\UST_PRACTICALS\Day7\DateTime2\DateTime2\bin\Debug\DateTime2.pdb
+D:\UST_PRACTICALS\Day7\DateTime2\DateTime2\obj\Debug\DateTime2.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day7\DateTime2\DateTime2\obj\Debug\DateTime2.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day7\DateTime2\DateTime2\obj\Debug\DateTime2.dll
+D:\UST_PRACTICALS\Day7\DateTime2\DateTime2\obj\Debug\DateTime2.pdb
