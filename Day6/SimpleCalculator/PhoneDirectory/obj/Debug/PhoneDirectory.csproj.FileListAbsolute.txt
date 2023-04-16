@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+D:\UST_PRACTICALS\Day6\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb

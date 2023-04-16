@@ -1,0 +1,16 @@
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\bin\Debug\AccountDEtails.exe.config
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\bin\Debug\AccountDEtails.exe
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\bin\Debug\AccountDEtails.pdb
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.exe
+D:\UST_PRACTICALS\Day4\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.pdb
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\bin\Debug\AccountDEtails.exe.config
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\bin\Debug\AccountDEtails.exe
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\bin\Debug\AccountDEtails.pdb
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.exe
+D:\UST_PRACTICALS\Day6\AccountDEtails\AccountDEtails\obj\Debug\AccountDEtails.pdb
