@@ -1,0 +1,15 @@
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\bin\Debug\net6.0\VotingEligibility.exe
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\bin\Debug\net6.0\VotingEligibility.deps.json
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\bin\Debug\net6.0\VotingEligibility.runtimeconfig.json
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\bin\Debug\net6.0\VotingEligibility.dll
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\bin\Debug\net6.0\VotingEligibility.pdb
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.AssemblyInfoInputs.cache
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.AssemblyInfo.cs
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.dll
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\refint\VotingEligibility.dll
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.pdb
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\VotingEligibility.genruntimeconfig.cache
+D:\UST_PRACTICALS\Day2\VotingEligibility\VotingEligibility\obj\Debug\net6.0\ref\VotingEligibility.dll

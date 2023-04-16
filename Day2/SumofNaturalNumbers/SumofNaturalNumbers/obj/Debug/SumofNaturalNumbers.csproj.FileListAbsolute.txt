@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\SumofNaturalNumbers.exe.config
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\SumofNaturalNumbers.exe
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\SumofNaturalNumbers.pdb
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\SumofNaturalNumbers.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\SumofNaturalNumbers.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\SumofNaturalNumbers.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\SumofNaturalNumbers.exe
+D:\UST_PRACTICALS\Day2\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\SumofNaturalNumbers.pdb

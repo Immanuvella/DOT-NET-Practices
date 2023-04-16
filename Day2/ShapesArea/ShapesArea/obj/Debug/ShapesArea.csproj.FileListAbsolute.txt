@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\bin\Debug\ShapesArea.exe.config
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\bin\Debug\ShapesArea.exe
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\bin\Debug\ShapesArea.pdb
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\obj\Debug\ShapesArea.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\obj\Debug\ShapesArea.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\obj\Debug\ShapesArea.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\obj\Debug\ShapesArea.exe
+D:\UST_PRACTICALS\Day2\ShapesArea\ShapesArea\obj\Debug\ShapesArea.pdb

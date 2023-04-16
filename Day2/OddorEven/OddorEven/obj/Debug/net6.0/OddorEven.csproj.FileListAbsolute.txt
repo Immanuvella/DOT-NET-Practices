@@ -1,0 +1,15 @@
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\bin\Debug\net6.0\OddorEven.exe
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\bin\Debug\net6.0\OddorEven.deps.json
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\bin\Debug\net6.0\OddorEven.runtimeconfig.json
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\bin\Debug\net6.0\OddorEven.dll
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\bin\Debug\net6.0\OddorEven.pdb
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.AssemblyInfoInputs.cache
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.AssemblyInfo.cs
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.dll
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\refint\OddorEven.dll
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.pdb
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\OddorEven.genruntimeconfig.cache
+D:\UST_PRACTICALS\Day2\OddorEven\OddorEven\obj\Debug\net6.0\ref\OddorEven.dll
