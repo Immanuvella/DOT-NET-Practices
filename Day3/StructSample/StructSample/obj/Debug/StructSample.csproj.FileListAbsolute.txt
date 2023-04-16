@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\bin\Debug\StructSample.exe.config
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\bin\Debug\StructSample.exe
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\bin\Debug\StructSample.pdb
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\obj\Debug\StructSample.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\obj\Debug\StructSample.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\obj\Debug\StructSample.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\obj\Debug\StructSample.exe
+D:\UST_PRACTICALS\Day3\StructSample\StructSample\obj\Debug\StructSample.pdb

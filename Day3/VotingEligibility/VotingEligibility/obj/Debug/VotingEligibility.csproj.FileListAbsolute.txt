@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\bin\Debug\VotingEligibility.exe.config
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\bin\Debug\VotingEligibility.exe
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\bin\Debug\VotingEligibility.pdb
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\obj\Debug\VotingEligibility.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\obj\Debug\VotingEligibility.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\obj\Debug\VotingEligibility.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\obj\Debug\VotingEligibility.exe
+D:\UST_PRACTICALS\Day3\VotingEligibility\VotingEligibility\obj\Debug\VotingEligibility.pdb

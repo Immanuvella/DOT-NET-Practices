@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\bin\Debug\SumOfInteger.exe.config
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\bin\Debug\SumOfInteger.exe
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\bin\Debug\SumOfInteger.pdb
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\obj\Debug\SumOfInteger.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\obj\Debug\SumOfInteger.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\obj\Debug\SumOfInteger.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\obj\Debug\SumOfInteger.exe
+D:\UST_PRACTICALS\Day2\SumOfInteger\SumOfInteger\obj\Debug\SumOfInteger.pdb
