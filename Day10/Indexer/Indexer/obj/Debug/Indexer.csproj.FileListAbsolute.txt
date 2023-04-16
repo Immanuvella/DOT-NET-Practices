@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\bin\Debug\Indexer.exe.config
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\bin\Debug\Indexer.exe
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\bin\Debug\Indexer.pdb
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\obj\Debug\Indexer.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\obj\Debug\Indexer.exe
+D:\UST_PRACTICALS\Day10\Indexer\Indexer\obj\Debug\Indexer.pdb
