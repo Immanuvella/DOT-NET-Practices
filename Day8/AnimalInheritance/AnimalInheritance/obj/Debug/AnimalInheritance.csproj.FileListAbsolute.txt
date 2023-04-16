@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\bin\Debug\AnimalInheritance.exe.config
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\bin\Debug\AnimalInheritance.exe
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\bin\Debug\AnimalInheritance.pdb
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.exe
+D:\UST_PRACTICALS\Day8\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.pdb
