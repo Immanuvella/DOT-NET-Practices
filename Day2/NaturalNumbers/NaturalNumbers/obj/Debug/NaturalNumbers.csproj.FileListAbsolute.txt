@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\bin\Debug\NaturalNumbers.exe.config
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\bin\Debug\NaturalNumbers.exe
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\bin\Debug\NaturalNumbers.pdb
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.exe
+D:\UST_PRACTICALS\Day2\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.pdb

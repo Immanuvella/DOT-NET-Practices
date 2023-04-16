@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\bin\Debug\CalcArea.exe.config
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\bin\Debug\CalcArea.exe
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\bin\Debug\CalcArea.pdb
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\obj\Debug\CalcArea.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\obj\Debug\CalcArea.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\obj\Debug\CalcArea.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\obj\Debug\CalcArea.exe
+D:\UST_PRACTICALS\Day2\CalcArea\CalcArea\obj\Debug\CalcArea.pdb
