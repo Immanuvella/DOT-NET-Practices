@@ -1,0 +1,16 @@
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\bin\Debug\StringCountAlphabets.exe.config
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\bin\Debug\StringCountAlphabets.exe
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\bin\Debug\StringCountAlphabets.pdb
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.exe
+D:\UST_PRACTICALS\Day3\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.pdb
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\bin\Debug\StringCountAlphabets.exe.config
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\bin\Debug\StringCountAlphabets.exe
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\bin\Debug\StringCountAlphabets.pdb
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.exe
+D:\UST_PRACTICALS\Day4\StringCountAlphabets\StringCountAlphabets\obj\Debug\StringCountAlphabets.pdb

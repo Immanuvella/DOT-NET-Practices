@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\bin\Debug\RemoveCharacterString.exe.config
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\bin\Debug\RemoveCharacterString.exe
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\bin\Debug\RemoveCharacterString.pdb
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\obj\Debug\RemoveCharacterString.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\obj\Debug\RemoveCharacterString.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\obj\Debug\RemoveCharacterString.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\obj\Debug\RemoveCharacterString.exe
+D:\UST_PRACTICALS\Day4\RemoveCharacterString\RemoveCharacterString\obj\Debug\RemoveCharacterString.pdb

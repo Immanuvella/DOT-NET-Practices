@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\bin\Debug\StringSortNConcat.exe.config
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\bin\Debug\StringSortNConcat.exe
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\bin\Debug\StringSortNConcat.pdb
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\obj\Debug\StringSortNConcat.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\obj\Debug\StringSortNConcat.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\obj\Debug\StringSortNConcat.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\obj\Debug\StringSortNConcat.exe
+D:\UST_PRACTICALS\Day4\StringSortNConcat\StringSortNConcat\obj\Debug\StringSortNConcat.pdb
