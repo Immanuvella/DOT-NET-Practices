@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\bin\Debug\TelephoneInheritance.exe.config
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\bin\Debug\TelephoneInheritance.exe
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\bin\Debug\TelephoneInheritance.pdb
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\obj\Debug\TelephoneInheritance.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\obj\Debug\TelephoneInheritance.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\obj\Debug\TelephoneInheritance.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\obj\Debug\TelephoneInheritance.exe
+D:\UST_PRACTICALS\Day7\TelephoneInheritance\TelephoneInheritance\obj\Debug\TelephoneInheritance.pdb

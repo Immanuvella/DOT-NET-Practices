@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\bin\Debug\InheritanceWithAbstract.exe.config
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\bin\Debug\InheritanceWithAbstract.exe
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\bin\Debug\InheritanceWithAbstract.pdb
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\obj\Debug\InheritanceWithAbstract.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\obj\Debug\InheritanceWithAbstract.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\obj\Debug\InheritanceWithAbstract.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\obj\Debug\InheritanceWithAbstract.exe
+D:\UST_PRACTICALS\Day8\InheritanceWithAbstract\InheritanceWithAbstract\obj\Debug\InheritanceWithAbstract.pdb

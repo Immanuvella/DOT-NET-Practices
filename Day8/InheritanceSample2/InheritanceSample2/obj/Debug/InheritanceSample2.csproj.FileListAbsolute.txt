@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\bin\Debug\InheritanceSample2.exe.config
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\bin\Debug\InheritanceSample2.exe
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\bin\Debug\InheritanceSample2.pdb
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\obj\Debug\InheritanceSample2.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\obj\Debug\InheritanceSample2.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\obj\Debug\InheritanceSample2.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\obj\Debug\InheritanceSample2.exe
+D:\UST_PRACTICALS\Day8\InheritanceSample2\InheritanceSample2\obj\Debug\InheritanceSample2.pdb
