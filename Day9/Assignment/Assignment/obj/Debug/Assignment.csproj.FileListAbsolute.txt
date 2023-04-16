@@ -1,0 +1,3 @@
+D:\UST_PRACTICALS\Day9\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day9\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day9\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
