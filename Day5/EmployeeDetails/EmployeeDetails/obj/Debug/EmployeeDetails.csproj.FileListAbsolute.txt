@@ -1,0 +1,16 @@
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+D:\UST_PRACTICALS\Day4\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+D:\UST_PRACTICALS\Day5\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb

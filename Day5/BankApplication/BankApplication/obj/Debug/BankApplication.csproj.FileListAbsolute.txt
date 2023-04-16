@@ -1,0 +1,3 @@
+D:\UST_PRACTICALS\Day5\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day5\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day5\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
