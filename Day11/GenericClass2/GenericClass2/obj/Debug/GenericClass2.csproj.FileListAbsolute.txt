@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\bin\Debug\GenericClass2.exe.config
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\bin\Debug\GenericClass2.exe
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\bin\Debug\GenericClass2.pdb
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\obj\Debug\GenericClass2.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\obj\Debug\GenericClass2.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\obj\Debug\GenericClass2.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\obj\Debug\GenericClass2.exe
+D:\UST_PRACTICALS\Day11\GenericClass2\GenericClass2\obj\Debug\GenericClass2.pdb

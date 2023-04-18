@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.pdb
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.exe
+D:\UST_PRACTICALS\Day11\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.pdb
