@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\obj\Debug\CustomeException.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\obj\Debug\CustomeException.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\obj\Debug\CustomeException.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\bin\Debug\CustomeException.exe.config
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\bin\Debug\CustomeException.exe
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\bin\Debug\CustomeException.pdb
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\obj\Debug\CustomeException.exe
+D:\UST_PRACTICALS\Day12\CustomeException\CustomeException\obj\Debug\CustomeException.pdb

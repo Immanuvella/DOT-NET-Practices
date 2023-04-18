@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\bin\Debug\ExceptionDemo1.exe.config
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\bin\Debug\ExceptionDemo1.exe
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\bin\Debug\ExceptionDemo1.pdb
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\obj\Debug\ExceptionDemo1.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\obj\Debug\ExceptionDemo1.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\obj\Debug\ExceptionDemo1.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\obj\Debug\ExceptionDemo1.exe
+D:\UST_PRACTICALS\Day12\ExceptionDemo1\ExceptionDemo1\obj\Debug\ExceptionDemo1.pdb

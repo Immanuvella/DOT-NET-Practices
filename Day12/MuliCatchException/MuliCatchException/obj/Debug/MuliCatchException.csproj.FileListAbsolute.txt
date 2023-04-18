@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\bin\Debug\MuliCatchException.exe.config
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\bin\Debug\MuliCatchException.exe
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\bin\Debug\MuliCatchException.pdb
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\obj\Debug\MuliCatchException.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\obj\Debug\MuliCatchException.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\obj\Debug\MuliCatchException.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\obj\Debug\MuliCatchException.exe
+D:\UST_PRACTICALS\Day12\MuliCatchException\MuliCatchException\obj\Debug\MuliCatchException.pdb
