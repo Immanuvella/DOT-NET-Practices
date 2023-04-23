@@ -1,0 +1,1 @@
+insert into Test values(101,'Ram');
