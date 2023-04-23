@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\bin\Debug\FileRead.exe.config
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\bin\Debug\FileRead.exe
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\bin\Debug\FileRead.pdb
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\obj\Debug\FileRead.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\obj\Debug\FileRead.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\obj\Debug\FileRead.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\obj\Debug\FileRead.exe
+D:\UST_PRACTICALS\Day12\FileRead\FileRead\obj\Debug\FileRead.pdb

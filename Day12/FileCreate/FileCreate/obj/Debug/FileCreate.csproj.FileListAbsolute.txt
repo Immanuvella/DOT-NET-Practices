@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\bin\Debug\FileCreate.exe.config
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\bin\Debug\FileCreate.exe
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\bin\Debug\FileCreate.pdb
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\obj\Debug\FileCreate.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\obj\Debug\FileCreate.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\obj\Debug\FileCreate.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\obj\Debug\FileCreate.exe
+D:\UST_PRACTICALS\Day12\FileCreate\FileCreate\obj\Debug\FileCreate.pdb
