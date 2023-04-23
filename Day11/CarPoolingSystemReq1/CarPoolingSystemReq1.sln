@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolingSystemReq1", "CarPoolingSystemReq1\CarPoolingSystemReq1.csproj", "{7234B270-D624-415C-9238-83D47223D2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolingSystemReq5", "CarPoolingSystemReq5\CarPoolingSystemReq5.csproj", "{4AC809FC-271A-4E47-A645-5ECD9A05B33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolingSystemReq2", "CarPoolingSystemReq2\CarPoolingSystemReq2.csproj", "{18DE22B8-2B95-4117-AAE3-876AED2A1E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolingSyestemReq3", "CarPoolingSyestemReq3\CarPoolingSyestemReq3.csproj", "{E5BEBE54-ABBB-41A2-A656-2A2ED8C3F21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolingSyestemReq6", "CarPoolingSyestemReq6\CarPoolingSyestemReq6.csproj", "{62522681-9A82-40A7-AE1E-64E7DDACCEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolingSystemReq4", "CarPoolingSystemReq4\CarPoolingSystemReq4.csproj", "{69C5F8C9-AF42-4C85-B4AF-DDBA80CA0E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7234B270-D624-415C-9238-83D47223D2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7234B270-D624-415C-9238-83D47223D2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7234B270-D624-415C-9238-83D47223D2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7234B270-D624-415C-9238-83D47223D2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC809FC-271A-4E47-A645-5ECD9A05B33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC809FC-271A-4E47-A645-5ECD9A05B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC809FC-271A-4E47-A645-5ECD9A05B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC809FC-271A-4E47-A645-5ECD9A05B33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DE22B8-2B95-4117-AAE3-876AED2A1E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DE22B8-2B95-4117-AAE3-876AED2A1E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DE22B8-2B95-4117-AAE3-876AED2A1E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DE22B8-2B95-4117-AAE3-876AED2A1E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BEBE54-ABBB-41A2-A656-2A2ED8C3F21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BEBE54-ABBB-41A2-A656-2A2ED8C3F21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BEBE54-ABBB-41A2-A656-2A2ED8C3F21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BEBE54-ABBB-41A2-A656-2A2ED8C3F21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62522681-9A82-40A7-AE1E-64E7DDACCEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62522681-9A82-40A7-AE1E-64E7DDACCEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62522681-9A82-40A7-AE1E-64E7DDACCEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62522681-9A82-40A7-AE1E-64E7DDACCEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C5F8C9-AF42-4C85-B4AF-DDBA80CA0E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C5F8C9-AF42-4C85-B4AF-DDBA80CA0E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C5F8C9-AF42-4C85-B4AF-DDBA80CA0E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C5F8C9-AF42-4C85-B4AF-DDBA80CA0E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9485A001-53E1-4BB3-81BE-FF36C56E6696}
+	EndGlobalSection
+EndGlobal
