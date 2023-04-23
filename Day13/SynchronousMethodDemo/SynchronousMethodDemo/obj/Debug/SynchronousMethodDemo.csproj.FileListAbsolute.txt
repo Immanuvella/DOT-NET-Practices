@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\bin\Debug\SynchronousMethodDemo.exe.config
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\bin\Debug\SynchronousMethodDemo.exe
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\bin\Debug\SynchronousMethodDemo.pdb
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\obj\Debug\SynchronousMethodDemo.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\obj\Debug\SynchronousMethodDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\obj\Debug\SynchronousMethodDemo.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\obj\Debug\SynchronousMethodDemo.exe
+D:\UST_PRACTICALS\Day13\SynchronousMethodDemo\SynchronousMethodDemo\obj\Debug\SynchronousMethodDemo.pdb

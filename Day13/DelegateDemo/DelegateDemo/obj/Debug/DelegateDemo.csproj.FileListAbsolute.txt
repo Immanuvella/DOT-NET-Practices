@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\UST_PRACTICALS\Day13\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

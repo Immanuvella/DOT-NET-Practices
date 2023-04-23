@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+D:\UST_PRACTICALS\Day13\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
