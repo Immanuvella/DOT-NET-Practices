@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\bin\Debug\Requirement4.exe.config
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\bin\Debug\Requirement4.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\bin\Debug\Requirement4.pdb
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\obj\Debug\Requirement4.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\obj\Debug\Requirement4.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\obj\Debug\Requirement4.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\obj\Debug\Requirement4.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement4\obj\Debug\Requirement4.pdb

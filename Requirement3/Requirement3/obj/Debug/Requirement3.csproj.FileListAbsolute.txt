@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\obj\Debug\Requirement3.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\obj\Debug\Requirement3.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\obj\Debug\Requirement3.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\bin\Debug\Requirement3.exe.config
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\bin\Debug\Requirement3.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\bin\Debug\Requirement3.pdb
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\obj\Debug\Requirement3.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement3\obj\Debug\Requirement3.pdb

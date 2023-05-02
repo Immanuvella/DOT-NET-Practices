@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\bin\Debug\ArrayPalindrome.exe.config
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\bin\Debug\ArrayPalindrome.exe
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\bin\Debug\ArrayPalindrome.pdb
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\obj\Debug\ArrayPalindrome.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\obj\Debug\ArrayPalindrome.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\obj\Debug\ArrayPalindrome.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\obj\Debug\ArrayPalindrome.exe
+D:\UST_PRACTICALS\Day17\ArrayPalindrome\ArrayPalindrome\obj\Debug\ArrayPalindrome.pdb
