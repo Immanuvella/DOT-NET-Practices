@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\obj\Debug\Requirement5.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\obj\Debug\Requirement5.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\obj\Debug\Requirement5.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\bin\Debug\Requirement5.exe.config
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\bin\Debug\Requirement5.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\bin\Debug\Requirement5.pdb
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\obj\Debug\Requirement5.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement5\obj\Debug\Requirement5.pdb

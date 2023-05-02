@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\bin\Debug\Requirement6.exe.config
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\bin\Debug\Requirement6.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\bin\Debug\Requirement6.pdb
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\obj\Debug\Requirement6.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\obj\Debug\Requirement6.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\obj\Debug\Requirement6.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\obj\Debug\Requirement6.exe
+D:\UST_PRACTICALS\Day17\Requirement3\Requirement6\obj\Debug\Requirement6.pdb
