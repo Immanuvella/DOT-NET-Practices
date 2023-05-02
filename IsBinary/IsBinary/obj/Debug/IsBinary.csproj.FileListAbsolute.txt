@@ -1,8 +1,0 @@
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\bin\Debug\IsBinary.exe.config
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\bin\Debug\IsBinary.exe
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\bin\Debug\IsBinary.pdb
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\obj\Debug\IsBinary.csproj.AssemblyReference.cache
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\obj\Debug\IsBinary.csproj.SuggestedBindingRedirects.cache
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\obj\Debug\IsBinary.csproj.CoreCompileInputs.cache
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\obj\Debug\IsBinary.exe
-D:\UST_PRACTICALS\Day17\IsBinary\IsBinary\obj\Debug\IsBinary.pdb
