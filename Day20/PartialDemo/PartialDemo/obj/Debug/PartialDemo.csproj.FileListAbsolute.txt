@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\bin\Debug\PartialDemo.exe.config
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\bin\Debug\PartialDemo.exe
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\bin\Debug\PartialDemo.pdb
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\obj\Debug\PartialDemo.exe
+D:\UST_PRACTICALS\Day20\PartialDemo\PartialDemo\obj\Debug\PartialDemo.pdb
