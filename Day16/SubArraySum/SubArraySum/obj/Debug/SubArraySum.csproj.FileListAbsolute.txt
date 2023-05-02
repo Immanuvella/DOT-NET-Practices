@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\bin\Debug\SubArraySum.exe.config
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\bin\Debug\SubArraySum.exe
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\bin\Debug\SubArraySum.pdb
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\obj\Debug\SubArraySum.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\obj\Debug\SubArraySum.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\obj\Debug\SubArraySum.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\obj\Debug\SubArraySum.exe
+D:\UST_PRACTICALS\Day16\SubArraySum\SubArraySum\obj\Debug\SubArraySum.pdb
