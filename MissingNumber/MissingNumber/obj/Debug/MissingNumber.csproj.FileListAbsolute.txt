@@ -1,8 +1,0 @@
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe.config
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\bin\Debug\MissingNumber.pdb
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.AssemblyReference.cache
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.SuggestedBindingRedirects.cache
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\obj\Debug\MissingNumber.exe
-D:\UST_PRACTICALS\Day16\MissingNumber\MissingNumber\obj\Debug\MissingNumber.pdb
