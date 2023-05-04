@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\bin\Debug\LinQDemo4.exe.config
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\bin\Debug\LinQDemo4.exe
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\bin\Debug\LinQDemo4.pdb
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\obj\Debug\LinQDemo4.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\obj\Debug\LinQDemo4.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\obj\Debug\LinQDemo4.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\obj\Debug\LinQDemo4.exe
+D:\UST_PRACTICALS\Day22\LinQDemo4\LinQDemo4\obj\Debug\LinQDemo4.pdb
