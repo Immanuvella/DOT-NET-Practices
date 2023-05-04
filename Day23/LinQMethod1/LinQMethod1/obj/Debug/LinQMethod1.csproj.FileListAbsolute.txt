@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\bin\Debug\LinQMethod1.exe.config
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\bin\Debug\LinQMethod1.exe
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\bin\Debug\LinQMethod1.pdb
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\obj\Debug\LinQMethod1.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\obj\Debug\LinQMethod1.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\obj\Debug\LinQMethod1.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\obj\Debug\LinQMethod1.exe
+D:\UST_PRACTICALS\Day23\LinQMethod1\LinQMethod1\obj\Debug\LinQMethod1.pdb

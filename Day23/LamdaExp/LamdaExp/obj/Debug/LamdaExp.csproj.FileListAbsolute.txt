@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\bin\Debug\LamdaExp.exe.config
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\bin\Debug\LamdaExp.exe
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\bin\Debug\LamdaExp.pdb
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\obj\Debug\LamdaExp.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\obj\Debug\LamdaExp.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\obj\Debug\LamdaExp.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\obj\Debug\LamdaExp.exe
+D:\UST_PRACTICALS\Day23\LamdaExp\LamdaExp\obj\Debug\LamdaExp.pdb

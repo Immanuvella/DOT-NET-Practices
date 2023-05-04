@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\bin\Debug\ExtensionDEmo.exe.config
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\bin\Debug\ExtensionDEmo.exe
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\bin\Debug\ExtensionDEmo.pdb
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\obj\Debug\ExtensionDEmo.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\obj\Debug\ExtensionDEmo.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\obj\Debug\ExtensionDEmo.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\obj\Debug\ExtensionDEmo.exe
+D:\UST_PRACTICALS\Day23\ExtensionDEmo\ExtensionDEmo\obj\Debug\ExtensionDEmo.pdb

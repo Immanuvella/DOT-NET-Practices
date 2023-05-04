@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\bin\Debug\LinqQueries.exe.config
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\bin\Debug\LinqQueries.exe
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\bin\Debug\LinqQueries.pdb
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\obj\Debug\LinqQueries.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\obj\Debug\LinqQueries.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\obj\Debug\LinqQueries.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\obj\Debug\LinqQueries.exe
+D:\UST_PRACTICALS\Day23\LinqQueries\LinqQueries\obj\Debug\LinqQueries.pdb

@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\bin\Debug\LinqSum.exe.config
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\bin\Debug\LinqSum.exe
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\bin\Debug\LinqSum.pdb
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\obj\Debug\LinqSum.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\obj\Debug\LinqSum.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\obj\Debug\LinqSum.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\obj\Debug\LinqSum.exe
+D:\UST_PRACTICALS\Day23\LinqSum\LinqSum\obj\Debug\LinqSum.pdb
