@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\bin\Debug\CountSmallerElement.exe.config
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\bin\Debug\CountSmallerElement.exe
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\bin\Debug\CountSmallerElement.pdb
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\obj\Debug\CountSmallerElement.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\obj\Debug\CountSmallerElement.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\obj\Debug\CountSmallerElement.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\obj\Debug\CountSmallerElement.exe
+D:\UST_PRACTICALS\Day17\CountSmallerElement\CountSmallerElement\obj\Debug\CountSmallerElement.pdb
