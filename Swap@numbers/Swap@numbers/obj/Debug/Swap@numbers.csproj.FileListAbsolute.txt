@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\bin\Debug\Swap@numbers.exe.config
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\bin\Debug\Swap@numbers.exe
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\bin\Debug\Swap@numbers.pdb
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\obj\Debug\Swap@numbers.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\obj\Debug\Swap@numbers.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\obj\Debug\Swap@numbers.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\obj\Debug\Swap@numbers.exe
+D:\UST_PRACTICALS\Day18\Swap@numbers\Swap@numbers\obj\Debug\Swap@numbers.pdb
