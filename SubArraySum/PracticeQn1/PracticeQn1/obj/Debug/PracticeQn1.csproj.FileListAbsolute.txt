@@ -1,8 +1,0 @@
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\obj\Debug\PracticeQn1.csproj.AssemblyReference.cache
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\obj\Debug\PracticeQn1.csproj.SuggestedBindingRedirects.cache
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\obj\Debug\PracticeQn1.csproj.CoreCompileInputs.cache
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\bin\Debug\PracticeQn1.exe.config
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\bin\Debug\PracticeQn1.exe
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\bin\Debug\PracticeQn1.pdb
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\obj\Debug\PracticeQn1.exe
-D:\UST_PRACTICALS\Day16\PracticeQn1\PracticeQn1\obj\Debug\PracticeQn1.pdb
