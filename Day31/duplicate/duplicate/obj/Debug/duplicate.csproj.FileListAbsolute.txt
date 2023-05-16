@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\bin\Debug\duplicate.exe.config
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\bin\Debug\duplicate.exe
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\bin\Debug\duplicate.pdb
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\obj\Debug\duplicate.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\obj\Debug\duplicate.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\obj\Debug\duplicate.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\obj\Debug\duplicate.exe
+D:\UST_PRACTICALS\Day31\duplicate\duplicate\obj\Debug\duplicate.pdb

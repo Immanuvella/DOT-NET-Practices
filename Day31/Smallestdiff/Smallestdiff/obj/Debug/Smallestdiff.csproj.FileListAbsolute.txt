@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\bin\Debug\Smallestdiff.exe.config
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\bin\Debug\Smallestdiff.exe
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\bin\Debug\Smallestdiff.pdb
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\obj\Debug\Smallestdiff.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\obj\Debug\Smallestdiff.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\obj\Debug\Smallestdiff.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\obj\Debug\Smallestdiff.exe
+D:\UST_PRACTICALS\Day31\Smallestdiff\Smallestdiff\obj\Debug\Smallestdiff.pdb
