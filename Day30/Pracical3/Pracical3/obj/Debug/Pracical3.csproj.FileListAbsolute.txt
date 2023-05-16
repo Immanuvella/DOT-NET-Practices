@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\bin\Debug\Pracical3.exe.config
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\bin\Debug\Pracical3.exe
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\bin\Debug\Pracical3.pdb
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\obj\Debug\Pracical3.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\obj\Debug\Pracical3.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\obj\Debug\Pracical3.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\obj\Debug\Pracical3.exe
+D:\UST_PRACTICALS\Day30\Pracical3\Pracical3\obj\Debug\Pracical3.pdb

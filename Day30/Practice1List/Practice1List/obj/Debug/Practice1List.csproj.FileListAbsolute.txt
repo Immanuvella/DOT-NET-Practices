@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\bin\Debug\Practice1List.exe.config
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\bin\Debug\Practice1List.exe
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\bin\Debug\Practice1List.pdb
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\obj\Debug\Practice1List.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\obj\Debug\Practice1List.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\obj\Debug\Practice1List.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\obj\Debug\Practice1List.exe
+D:\UST_PRACTICALS\Day30\Practice1List\Practice1List\obj\Debug\Practice1List.pdb
