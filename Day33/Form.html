@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <style>
+        label {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: medium;
+            color: black;
+
+        }
+
+        input {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: medium;
+        }
+
+        fieldset {
+            padding: 50px;
+        }
+
+        form {
+            background-color: grey;
+            margin-left: 200px;
+            margin-right: 200px;
+            margin-top: 100px;
+            margin-bottom: 200px;
+            padding: 30px;
+        }
+
+        #submit {
+            background-color: grey;
+            border-radius: 20px;
+            border-color: black;
+            height: 50px;
+            width: 100px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form method="get" action="Thanks.html">
+        <br>
+        <center>
+            <h3>REGISTRATION FORM</h3>
+        </center>
+        <fieldset>
+            <legend>User Information</legend>
+            <label>First Name :</label><br>
+            <input type="text" /><br>
+            <br><br>
+            <label>Last Name</label><br>
+            <input type="text" /><br>
+            <br><br>
+            <label>Email Id</label><br>
+            <input type="email" /><br>
+            <br><br>
+            <label class="gender">Gender</label><br>
+            <input type="radio" name="gender" class="gender" />Male
+            <input type="radio" name="gender" class="gender" />Female
+            <input type="radio" name="gender" class="gender" />Others<br>
+            <br><br>
+            <label>Address :</label><br>
+            <textarea rows="5" cols="10" ></textarea><br>
+            <br><br>
+            <label>Phone Number</label><br>
+            <input type="tel"/>
+            <br><br>
+            <label>Designation :</label><br>
+            <select>
+                <option>Student</option>
+                <option>Professional</option>
+
+            </select>
+            <br><br>
+            <label class="check">Programming Languages Known</label><br>
+            <input type="checkbox" id="chk1" class="check" />c# <br>
+            <input type="checkbox" id="chk2" class="check" />c++ <br>
+            <input type="checkbox" id="chk3" class="check" />Java<br>
+            <input type="checkbox" id="chk4" class="check" />Python<br>
+            <br><br>
+            <center><input type="submit" value="Submit" id="submit" /></center>
+
+
+
+
+        </fieldset>
+    </form>
+
+</body>
+
+</html>
