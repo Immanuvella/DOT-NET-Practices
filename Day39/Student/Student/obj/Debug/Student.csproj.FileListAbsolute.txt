@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day39\Student\Student\bin\Debug\Student.exe.config
+D:\UST_PRACTICALS\Day39\Student\Student\bin\Debug\Student.exe
+D:\UST_PRACTICALS\Day39\Student\Student\bin\Debug\Student.pdb
+D:\UST_PRACTICALS\Day39\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day39\Student\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day39\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day39\Student\Student\obj\Debug\Student.exe
+D:\UST_PRACTICALS\Day39\Student\Student\obj\Debug\Student.pdb
