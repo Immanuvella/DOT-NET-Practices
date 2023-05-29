@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\bin\Debug\Challenge6(Abstract).exe.config
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\bin\Debug\Challenge6(Abstract).exe
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\bin\Debug\Challenge6(Abstract).pdb
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\obj\Debug\Challenge6(Abstract).csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\obj\Debug\Challenge6(Abstract).csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\obj\Debug\Challenge6(Abstract).csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\obj\Debug\Challenge6(Abstract).exe
+D:\UST_PRACTICALS\Day41\Challenge6(Abstract)\Challenge6(Abstract)\obj\Debug\Challenge6(Abstract).pdb

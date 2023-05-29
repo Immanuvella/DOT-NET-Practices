@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\bin\Debug\Challenge7.exe.config
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\bin\Debug\Challenge7.exe
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\bin\Debug\Challenge7.pdb
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\obj\Debug\Challenge7.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\obj\Debug\Challenge7.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\obj\Debug\Challenge7.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\obj\Debug\Challenge7.exe
+D:\UST_PRACTICALS\Day41\Challenge7\Challenge7\obj\Debug\Challenge7.pdb
