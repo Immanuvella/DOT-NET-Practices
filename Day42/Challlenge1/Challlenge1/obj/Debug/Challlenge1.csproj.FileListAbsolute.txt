@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\bin\Debug\Challlenge1.exe.config
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\bin\Debug\Challlenge1.exe
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\bin\Debug\Challlenge1.pdb
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\obj\Debug\Challlenge1.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\obj\Debug\Challlenge1.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\obj\Debug\Challlenge1.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\obj\Debug\Challlenge1.exe
+D:\UST_PRACTICALS\Day42\Challlenge1\Challlenge1\obj\Debug\Challlenge1.pdb
