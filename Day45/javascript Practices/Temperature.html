@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="input"/>
+    <button id="temp" onclick="cTof()">C to F</button>
+    <button id="temp" onclick="fToc()">F to C</button>
+    <p id="res"></p>
+    <script>
+        function cTof()
+        {
+var c=document.getElementById('input').value;
+var f=c*9/5+32;
+document.getElementById('res').innerHTML=c+"\xB0C"+" is "+f+"\xB0F";
+        }
+
+        function fToc()
+        {
+var f=document.getElementById('input').value;
+var c=(f-32)*5/9;
+document.getElementById('res').innerHTML=f+"/xB0F;"+" is "+c+"/xB0C";
+        }
+    </script>
+</body>
+</html>

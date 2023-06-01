@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label for="">First Number</label>
+    <input type="text" id="a"/>
+    <label for="">Second Number</label>
+    <input type="text" id="b"/>
+    <p id="res"></p>
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="division()">Division</button>
+
+    <script>
+        function multiply()
+        {
+            var a=document.getElementById('a').value;
+            var b=document.getElementById('b').value;
+            var mul=a*b;
+            document.getElementById('res').innerHTML="The result is :"+mul;
+        }
+        function division()
+        {
+            var a=document.getElementById('a').value;
+            var b=document.getElementById('b').value;
+            if(a>b)
+            {
+                var div=a/b;
+            }
+            
+            document.getElementById('res').innerHTML="The result is :"+div;
+
+        }
+    </script>
+</body>
+</html>

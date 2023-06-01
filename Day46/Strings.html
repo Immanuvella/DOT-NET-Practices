@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<input type="text" id="inp"/>
+<p id="res"></p>
+<button onclick="StringLower()">Click here</button>
+
+    <script>
+        function StringLower()
+        {
+            var a=document.getElementById('inp').value;
+            var b=a.substring(0,3).toLowerCase();
+            var res=b+a.substring(4,a.length);
+            document.getElementById('res').innerHTML=res;
+            if(a.length<3)
+            {
+                var c=a.toUpperCase();
+                document.getElementById('res').innerHTML=c;
+            }
+
+        }
+    </script>
+</body>
+</html>
