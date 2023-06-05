@@ -1,0 +1,8 @@
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.exe.config
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.exe
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.pdb
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.csproj.AssemblyReference.cache
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.csproj.CoreCompileInputs.cache
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.exe
+D:\UST_PRACTICALS\Day49\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.pdb
