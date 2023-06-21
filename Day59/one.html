@@ -1,0 +1,29 @@
+<html>
+
+<body>
+
+<p id="demo"></p>
+
+<script>
+
+let obj='[{"id":101,"unit":30,"quantity":2},{"id":102,"unit":40,quantity":1}]';
+
+console.log(obj);
+
+let total=0;
+const items=JSON.parse(obj);
+
+for(var i=0;i<items.length;i++)
+
+{
+
+let price=items[i].unit*items[i].quantity;
+total+=price;
+
+}
+document.write(total);
+</script>
+
+</body>
+
+</html>

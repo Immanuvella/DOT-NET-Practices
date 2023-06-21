@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+
+
+ <head>
+
+
+
+  <meta charset="UTF-8" />
+
+
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+  <title>Json</title>
+
+
+
+  <script>
+
+
+
+   function addd() {
+
+
+
+    const users = document.querySelector(".fo");
+
+
+
+    const formdata = new FormData(users);
+
+
+
+    const data = Object.fromEntries(formdata);
+
+
+
+    const pdt = JSON.stringify(data);
+
+
+
+    console.log(pdt);
+
+
+
+    document.getElementById("para").value= pdt;
+
+
+
+   }
+   const user ={
+
+
+
+title :"hsgdhsg",
+
+
+
+head :"jsbj",
+
+
+
+userID :92
+
+
+
+
+
+
+
+}
+
+fetch("https://jsonplaceholder.typicode.com/user",{
+
+
+
+method : 'GET',
+
+
+
+headers :{
+
+
+
+  "Content-Type" : "application/json"
+
+
+
+},
+
+
+
+body : JSON.stringify(user)
+
+
+
+})
+
+
+
+.then((resp) => resp.json()).then((data) => console.log(data));
+
+
+  </script>
+
+
+
+ </head>
+
+
+
+ <body>
+
+
+
+  <style>
+
+
+
+   .container {
+
+
+
+    width: 300px;
+
+
+
+    height: auto;
+
+
+
+    border: 3px;
+
+
+
+    border-style: solid;
+
+
+
+    background-color: rgb(193, 218, 209);
+
+
+
+    margin: auto;
+
+
+
+    text-align: center;
+
+
+
+    padding: 10px;
+
+
+
+   }
+
+
+
+   .form-control {
+
+
+
+    padding: 10px;
+
+
+
+    text-align: left;
+
+
+
+   }
+
+
+
+  </style>
+
+
+
+  <div class="container">
+
+
+
+   <h4>FORM</h4>
+
+
+
+   <form id="toDoForm" class="fo" onsubmit="return false">
+
+
+
+    <div class="form-control">
+
+
+
+     <label for="name">Name</label>
+
+
+
+     <input type="text" id="name" name="name" placeholder="Enter name" />
+
+
+
+    </div>
+
+
+
+ 
+
+
+
+    <div class="form-control">
+
+
+
+     <label for="name">email</label>
+
+
+
+     <input type="text" id="name" name="email" placeholder="Enter email" />
+
+
+
+    </div>
+
+
+
+ 
+
+
+
+    <div class="form-control">
+
+
+
+     <label for="prio">Priority</label>
+
+
+
+     <select name="priority" id="prio">
+
+
+
+      <option value="low">low</option>
+
+
+
+      <option value="high">high</option>
+
+
+
+     </select>
+
+
+
+    </div>
+
+
+
+ 
+
+
+
+    <div class="form-control">
+
+
+
+     <label for="dte">Date</label>
+
+
+
+     <input type="date" id="dte" name="date" />
+
+
+
+    </div>
+
+
+
+ 
+
+
+
+    <div class="form-control">
+
+
+
+      <label for="result">result</label>
+
+
+
+      <input type="text" id="result" `>
+
+
+
+    </div>
+
+
+
+ 
+
+
+
+    <button id="btn" type="submit" onclick="addd()">submit</button>
+
+
+
+    <textarea id="para"></textarea>
+
+
+
+   </form>
+
+
+
+  </div>
+
+
+
+ </body>
+
+
+
+</html>
